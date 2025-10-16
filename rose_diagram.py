@@ -1,12 +1,3 @@
-"""
-Joint Rose Diagram Plot
------------------------
-This script creates a rose diagram (polar bar plot) showing:
-- Joint set orientations (dip directions)
-- Their frequencies
-- Bisecting and perpendicular lines for key joint sets
-"""
-
 # ===============================
 # 1️⃣ Import Required Libraries
 # ===============================
