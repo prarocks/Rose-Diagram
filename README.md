@@ -20,14 +20,4 @@ Here: ([url](https://colab.research.google.com/github/prarocks/Rose-Diagram/blob
 - Clear, modular code with numbered sections  
 - Customizable bar width, colors, and title  
 - Automatic bisecting and perpendicular line computation  
-- Publication-quality matplotlib plot  
-
----
-
-
-
-# ===============================
-# 7️⃣ Display
-# ===============================
-plt.tight_layout()
-plt.show()
+- Publication-quality matplotlib plot 
